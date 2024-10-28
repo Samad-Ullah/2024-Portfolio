@@ -1,14 +1,9 @@
 {
 	"homepage": "http://Samad-Ullah.github.io/2024-Portfolio",
 	"name": "reactfolio",
-	"version": "1.1.0",
+	"version": "0.1.0",
 	"description": "Personal portfolio template built using Reactjs",
-	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
-	},
-	"license": "MIT",
+	"author": "Samad",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
