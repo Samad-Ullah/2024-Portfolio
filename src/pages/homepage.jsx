@@ -101,7 +101,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.png"
+											src="https://media.licdn.com/dms/image/v2/D4D03AQH4Y150gEqDcQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708933733034?e=1735776000&v=beta&t=sFOhiQwOICn5p8arc4Eq2PTXIUCZCEUxwrYCcVhlScg"
 											alt="about"
 											className="homepage-image"
 										/>
@@ -132,7 +132,7 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href={INFO.socials.instagram}
+								href={INFO.socials.instagaram}
 								target="https://www.instagram.com/"
 								rel="noreferrer"
 							>

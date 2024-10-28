@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="homepage.png"
+											src="https://media.licdn.com/dms/image/v2/D4D03AQH4Y150gEqDcQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708933733034?e=1735776000&v=beta&t=sFOhiQwOICn5p8arc4Eq2PTXIUCZCEUxwrYCcVhlScg"
 											alt="about"
 											className="about-image"
 										/>

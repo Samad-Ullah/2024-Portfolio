@@ -3,7 +3,7 @@ const INFO = {
 		title: "Sr: Web engineer",
 		name: "Samad Ullah",
 		email: "usamad152@gmail.com",
-		logo: "../logo.png",
+		logo: "https://cdn-icons-png.flaticon.com/128/3242/3242257.png",
 	},
 
 	socials: {
